@@ -1,4 +1,3 @@
-import { AxiosResponse } from "axios";
 import fetchData from "./api";
 
 const getExampleRequest = async () => {
