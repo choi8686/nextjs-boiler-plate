@@ -1,4 +1,4 @@
-import { atom, selector, DefaultValue } from "recoil";
+ import { atom, selector, DefaultValue } from "recoil";
 
 const value = atom<any>({
   key: "inputState/value", // unique ID (with respect to other atoms/selectors)
